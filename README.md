@@ -1,0 +1,1 @@
+# wikizero-redirector
