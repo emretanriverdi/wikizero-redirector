@@ -1,0 +1,16 @@
+{
+	"name": "Wikizero Redirector",
+	"short_name": "WikiDir",
+	"description": "Redirect Wikipedia links to 0Wikipedia to unblock access.",
+	"manifest_version": 2,
+	"version": "1.0.0",
+	"author": "Emre Tanriverdi",
+	"homepage_url": "https://github.com/emretanriverdi/wikizero-redirector",
+	"permissions": [
+    "webRequest",
+    "*://*.wikipedia.org/*",
+    "*://*.www.wikipedia.org/*",
+    "webRequestBlocking"
+  ],
+	"background": {"scripts":["main.js"]}
+}
