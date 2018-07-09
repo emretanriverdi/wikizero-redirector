@@ -11,8 +11,8 @@
   <br/><br/>
 * Firefox Installation
   * Clone or download a zip of the repository
-  * Go to `about:debugging`
-  * Click **Load Temporary Add-on** and open/select the *main.js* file.
+  * Go to `Add-Ons`
+  * *Drag & drop* the **wikizero-redirector.xpi** file.
   * Ta-da!
   <br/><br/><br/>
 * Note
